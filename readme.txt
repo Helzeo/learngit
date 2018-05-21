@@ -1,3 +1,2 @@
-Git is a version control tools.
-I learning Git now.
-I change this file "funck you"!
+今天我吃了很多饭.
+感觉好撑.
