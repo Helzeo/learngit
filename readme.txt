@@ -4,3 +4,4 @@
 真的不知道?
 我今天接着写, 我没时间吃早餐了.
 创建了新的分支 dev.
+Creating new branch is quick & simple.
