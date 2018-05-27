@@ -5,4 +5,4 @@
 我今天接着写, 我没时间吃早餐了.
 创建了新的分支 CHONGTU dev.
 Creating a new branch is quick AND simple.
-2018年05月26日, 分支管理策略.
+2018年05月26日, 分支管理(修改bug了)策略.
