@@ -6,3 +6,4 @@
 创建了新的分支 CHONGTU dev.
 Creating a new branch is quick AND simple.
 2018年05月26日, 分支管理策略.
+分支 Bug 学习.
